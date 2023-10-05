@@ -1,4 +1,4 @@
-// Szekeres Miklós
+// Szekeres Miklós.
 // 2023.10.05
 // Github : https://github.com/hiimmikescott
 
